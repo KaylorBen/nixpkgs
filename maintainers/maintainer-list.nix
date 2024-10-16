@@ -11010,7 +11010,7 @@
     name = "Hideaki Kawai";
   };
   kaylorben = {
-    email = "bkaylor@mines.edu";
+    email = "blkaylor@mines.edu";
     github = "kaylorben";
     githubId = 41012641;
     name = "Benjamin Kaylor";
